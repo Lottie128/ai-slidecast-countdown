@@ -4,7 +4,7 @@ import './CountdownPage.css';
 
 const CountdownPage = () => {
   const [timeLeft, setTimeLeft] = useState({
-    hours: 2,
+    hours: 8,
     minutes: 0,
     seconds: 0
   });
